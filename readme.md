@@ -63,7 +63,7 @@ Notebook ini berisi analisis data transaksi elektronik Transjakarta untuk mengid
 
 ## Struktur File
 
-- `Capstone2_MuhamadRafif_JCDSAH_0208.ipynb` — Notebook utama analisis
+- `analysis.ipynb` — Notebook utama analisis
 - `Transjakarta.csv` — Dataset transaksi elektronik Transjakarta
 - `map_out_halte_populer.html` — Peta halte tap-out populer
 - `map_tapin_halte_populer.html` — Peta halte tap-in populer
